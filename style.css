@@ -1,0 +1,27 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: bisque;
+}
+
+
+
+canvas {
+    border: 2px solid rgb(94, 96, 62);
+    
+}
+
+#score {
+    width: 100px;
+    height: 30px;
+    border: 2px solid black;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: black;
+}
